@@ -6,6 +6,7 @@ import MainSection from "@/components/MainSection";
 import TrustPillars from "@/components/TrustPillars";
 import About from "@/components/About";
 import FounderNote from "@/components/FounderNote";
+import Methadology from "@/components/Methodology";
 
 const geistSans = Geist({
     variable: "--font-geist-sans",
@@ -26,6 +27,7 @@ export default function Home() {
             <TrustPillars />
             <About />
             <FounderNote />
+            <Methadology />
         </>
     );
 }
