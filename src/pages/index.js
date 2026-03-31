@@ -1,6 +1,8 @@
 import Image from "next/image";
 import { Geist, Geist_Mono } from "next/font/google";
 import CustomCursor from "@/components/CustomCursor";
+import NavBar from "@/components/NavBar";
+import MainSection from "@/components/MainSection";
 
 const geistSans = Geist({
     variable: "--font-geist-sans",
@@ -16,6 +18,8 @@ export default function Home() {
     return (
         <>
             <CustomCursor />
+            <NavBar />
+            <MainSection />
         </>
     );
 }
