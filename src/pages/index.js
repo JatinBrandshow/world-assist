@@ -7,6 +7,7 @@ import TrustPillars from "@/components/TrustPillars";
 import About from "@/components/About";
 import FounderNote from "@/components/FounderNote";
 import Methadology from "@/components/Methodology";
+import GlobalReach from "@/components/GlobalReach";
 
 const geistSans = Geist({
     variable: "--font-geist-sans",
@@ -28,6 +29,7 @@ export default function Home() {
             <About />
             <FounderNote />
             <Methadology />
+            <GlobalReach />
         </>
     );
 }
