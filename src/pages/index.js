@@ -4,6 +4,8 @@ import CustomCursor from "@/components/CustomCursor";
 import NavBar from "@/components/NavBar";
 import MainSection from "@/components/MainSection";
 import TrustPillars from "@/components/TrustPillars";
+import About from "@/components/About";
+import FounderNote from "@/components/FounderNote";
 
 const geistSans = Geist({
     variable: "--font-geist-sans",
@@ -22,6 +24,8 @@ export default function Home() {
             <NavBar />
             <MainSection />
             <TrustPillars />
+            <About />
+            <FounderNote />
         </>
     );
 }
