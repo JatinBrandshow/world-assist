@@ -8,6 +8,7 @@ import About from "@/components/About";
 import FounderNote from "@/components/FounderNote";
 import Methadology from "@/components/Methodology";
 import GlobalReach from "@/components/GlobalReach";
+import Services from "@/components/Services";
 
 const geistSans = Geist({
     variable: "--font-geist-sans",
@@ -30,6 +31,7 @@ export default function Home() {
             <FounderNote />
             <Methadology />
             <GlobalReach />
+            <Services />
         </>
     );
 }
