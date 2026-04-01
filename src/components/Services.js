@@ -24,7 +24,7 @@ const Services = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                     {/* CARD 1 */}
                     <div
-                        className="group relative p-10 border border-white/5 bg-white/5 overflow-hidden transition-all duration-500 hover:bg-white/10 hover:shadow-2xl hover:shadow-[#b89b72]/10 before:absolute before:top-0 before:left-0 before:h-[2px] before:w-full before:bg-[#b89b72] before:scale-x-0 before:origin-left before:transition-transform before:duration-500 hover:before:scale-x-100"
+                        className="group relative p-10 border border-white/5 bg-white/5 overflow-hidden transition-all duration-500 hover:bg-white/10 hover:shadow-2xl hover:shadow-[#b89b72]/10 before:absolute before:top-0 before:left-0 before:h-0.5 before:w-full before:bg-[#b89b72] before:scale-x-0 before:origin-left before:transition-transform before:duration-500 hover:before:scale-x-100"
                     >
                         <div className="w-12 h-12 rounded-lg bg-[#b89b72]/10 flex items-center justify-center text-[#b89b72] mb-8">
                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -42,7 +42,7 @@ const Services = () => {
 
                     {/* CARD 2 */}
                     <div
-                        className="group relative p-10 border border-white/5 bg-white/5 overflow-hidden transition-all duration-500 hover:bg-white/10 hover:shadow-2xl hover:shadow-[#b89b72]/10 before:absolute before:top-0 before:left-0 before:h-[2px] before:w-full before:bg-[#b89b72] before:scale-x-0 before:origin-left before:transition-transform before:duration-500 hover:before:scale-x-100"
+                        className="group relative p-10 border border-white/5 bg-white/5 overflow-hidden transition-all duration-500 hover:bg-white/10 hover:shadow-2xl hover:shadow-[#b89b72]/10 before:absolute before:top-0 before:left-0 before:h-0.5 before:w-full before:bg-[#b89b72] before:scale-x-0 before:origin-left before:transition-transform before:duration-500 hover:before:scale-x-100"
                     >
                         <div className="w-12 h-12 rounded-lg bg-[#b89b72]/10 flex items-center justify-center text-[#b89b72] mb-8">
                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -60,7 +60,7 @@ const Services = () => {
 
                     {/* CARD 3 */}
                     <div
-                        className="group relative p-10 border border-white/5 bg-white/5 overflow-hidden transition-all duration-500 hover:bg-white/10 hover:shadow-2xl hover:shadow-[#b89b72]/10 before:absolute before:top-0 before:left-0 before:h-[2px] before:w-full before:bg-[#b89b72] before:scale-x-0 before:origin-left before:transition-transform before:duration-500 hover:before:scale-x-100"
+                        className="group relative p-10 border border-white/5 bg-white/5 overflow-hidden transition-all duration-500 hover:bg-white/10 hover:shadow-2xl hover:shadow-[#b89b72]/10 before:absolute before:top-0 before:left-0 before:h-0.5 before:w-full before:bg-[#b89b72] before:scale-x-0 before:origin-left before:transition-transform before:duration-500 hover:before:scale-x-100"
                     >
                         <div className="w-12 h-12 rounded-lg bg-[#b89b72]/10 flex items-center justify-center text-[#b89b72] mb-8">
                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
