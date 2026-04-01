@@ -16,7 +16,7 @@ const Methadology = () => {
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
                         {/* Step 1 */}
                         <div className="relative pt-12">
-                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none">
+                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none font-jakarta">
                                 01
                             </span>
 
@@ -32,7 +32,7 @@ const Methadology = () => {
 
                         {/* Step 2 */}
                         <div className="relative pt-12">
-                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none">
+                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none font-jakarta">
                                 02
                             </span>
 
@@ -48,7 +48,7 @@ const Methadology = () => {
 
                         {/* Step 3 */}
                         <div className="relative pt-12">
-                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none">
+                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none font-jakarta">
                                 03
                             </span>
 
@@ -64,7 +64,7 @@ const Methadology = () => {
 
                         {/* Step 4 */}
                         <div className="relative pt-12">
-                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none">
+                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none font-jakarta">
                                 04
                             </span>
 

@@ -12,7 +12,7 @@ const CTA = () => {
                     </h2>
 
                     {/* Quote */}
-                    <p className="text-xl text-brand-sage max-w-2xl mx-auto mb-16 italic">
+                    <p className="text-xl text-brand-sage max-w-2xl mx-auto mb-16 italic font-cormorant">
                         "Don't let a bad acquisition define your next decade. Let's build a legacy together."
                     </p>
 
