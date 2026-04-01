@@ -5,7 +5,7 @@ const GlobalReach = () => {
                 {/* Background Glow */}
                 <div className="absolute top-[30%] left-[-10%] w-[50vw] h-[20vw] bg-brand-gold/5 blur-[120px] -z-10 rotate-12"></div>
 
-                <div className="max-w-[1500px] mx-auto px-6 lg:px-16">
+                <div className="max-w-375 mx-auto px-6 lg:px-16">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
                         {/* LEFT CONTENT */}
                         <div>

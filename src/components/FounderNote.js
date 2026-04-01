@@ -4,7 +4,7 @@ const FounderNote = () => {
             <section className="py-32 bg-white">
                 <div className="container mx-auto px-6 lg:px-16">
                     {/* Glass Card */}
-                    <div className="relative overflow-hidden bg-white/70 backdrop-blur-xl border border-brand-gold/10 p-12 lg:p-20">
+                    <div className="relative overflow-hidden bg-white/70 backdrop-blur-xl border border-[#b89b72]/10 p-12 lg:p-20">
                         {/* Glow */}
                         <div className="absolute top-0 right-0 w-64 h-64 bg-brand-gold/5 blur-[100px] -z-10"></div>
 
@@ -26,7 +26,7 @@ const FounderNote = () => {
                             {/* RIGHT CONTENT */}
                             <div className="lg:col-span-8 space-y-8">
                                 {/* Quote Icon */}
-                                <svg className="w-12 h-12 text-brand-gold/20" fill="currentColor" viewBox="0 0 32 32">
+                                <svg className="w-12 h-12 text-[#b89b72] opacity-25" fill="currentColor" viewBox="0 0 32 32">
                                     <path d="M10 8v8h6v-8zm12 0v8h6v-8zM10 18v8h6v-8zm12 0v8h6v-8z" />
                                 </svg>
 
@@ -47,11 +47,11 @@ const FounderNote = () => {
 
                                 {/* Tags */}
                                 <div className="pt-8 flex gap-4 flex-wrap">
-                                    <div className="px-6 py-3 border border-brand-navy/5 text-[10px] font-bold tracking-widest uppercase text-brand-navy">
+                                    <div className="px-6 py-3 border border-[#1e293b]/5 text-[10px] font-bold tracking-widest uppercase text-brand-navy">
                                         Ex-Deloitte Principal
                                     </div>
 
-                                    <div className="px-6 py-3 border border-brand-navy/5 text-[10px] font-bold tracking-widest uppercase text-brand-navy">
+                                    <div className="px-6 py-3 border border-[#1e293b]/5 text-[10px] font-bold tracking-widest uppercase text-brand-navy">
                                         CPA · MBA · CFA
                                     </div>
                                 </div>
