@@ -139,14 +139,14 @@ const MainSection = () => {
                             {/* Arrows */}
                             <button
                                 onClick={prevSlide}
-                                className="absolute left-4 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/30 backdrop-blur-md border border-white flex items-center justify-center text-brand-gold hover:bg-brand-gold hover:text-white transition z-50"
+                                className="absolute left-4 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/30 backdrop-blur-md border border-white flex items-center justify-center text-brand-gold hover:bg-brand-gold hover:text-white transition z-25"
                             >
                                 ‹
                             </button>
 
                             <button
                                 onClick={nextSlide}
-                                className="absolute right-4 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/30 backdrop-blur-md border border-white flex items-center justify-center text-brand-gold hover:bg-brand-gold hover:text-white transition z-50"
+                                className="absolute right-4 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/30 backdrop-blur-md border border-white flex items-center justify-center text-brand-gold hover:bg-brand-gold hover:text-white transition z-25"
                             >
                                 ›
                             </button>
