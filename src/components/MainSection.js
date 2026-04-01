@@ -168,7 +168,7 @@ const MainSection = () => {
                                 <p className="text-[10px] font-bold tracking-[0.3em] text-brand-gold uppercase mb-2">
                                     Our commitment
                                 </p>
-                                <p className="text-xl italic text-brand-navy leading-relaxed">
+                                <p className="text-xl italic text-brand-navy leading-relaxed font-cormorant">
                                     "Buyer-Side Only — Always. Our loyalty is to you. Full stop."
                                 </p>
                             </div>
