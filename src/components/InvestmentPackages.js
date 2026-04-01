@@ -2,7 +2,7 @@ const InvestmentPackages = () => {
     return (
         <>
             <section id="packages" className="py-32 bg-brand-paper">
-                <div className="max-w-7xl mx-auto px-6 lg:px-16">
+                <div className="max-w-375 mx-auto px-6 lg:px-16">
                     {/* Heading */}
                     <div className="text-center mb-24">
                         <span className="text-[11px] font-bold tracking-[0.35em] text-brand-gold uppercase mb-5 inline-block">
@@ -13,9 +13,9 @@ const InvestmentPackages = () => {
                     </div>
 
                     {/* Grid */}
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                         {/* CARD 1 */}
-                        <div className="flex flex-col justify-between bg-white border border-brand-navy/5 p-10 transition-all duration-500 hover:shadow-2xl hover:-translate-y-2">
+                        <div className="flex flex-col justify-between bg-white border border-[#1e293b]/5 p-10 transition-all duration-500 hover:shadow-2xl ">
                             <div className="space-y-6">
                                 <h3 className="text-2xl font-bold text-brand-black">Explorer</h3>
 
@@ -39,7 +39,7 @@ const InvestmentPackages = () => {
                         </div>
 
                         {/* CARD 2 (Highlighted) */}
-                        <div className="relative flex flex-col justify-between bg-white border border-brand-gold/40 ring-1 ring-brand-gold/40 p-10 transition-all duration-500 hover:shadow-2xl hover:-translate-y-2">
+                        <div className="relative flex flex-col justify-between bg-white border border-[#b89b72]/5 ring-1 ring-[#b89b72]/40 p-10 transition-all duration-500 hover:shadow-2xl ">
                             {/* Badge */}
                             <div className="absolute top-0 right-8 -translate-y-1/2 bg-brand-gold text-white text-[10px] font-bold tracking-widest uppercase px-4 py-1.5 rounded-full">
                                 Most Popular
@@ -69,7 +69,7 @@ const InvestmentPackages = () => {
                         </div>
 
                         {/* CARD 3 */}
-                        <div className="flex flex-col justify-between bg-white border border-brand-navy/5 p-10 transition-all duration-500 hover:shadow-2xl hover:-translate-y-2">
+                        <div className="flex flex-col justify-between bg-white border border-[#1e293b]/5 p-10 transition-all duration-500 hover:shadow-2xl ">
                             <div className="space-y-6">
                                 <h3 className="text-2xl font-bold text-brand-black">Full Journey</h3>
 
