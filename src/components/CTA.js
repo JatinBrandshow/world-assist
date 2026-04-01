@@ -29,7 +29,7 @@ const CTA = () => {
                         {/* Outline */}
                         <a
                             href="#services"
-                            className="inline-flex items-center justify-center px-12 py-6 text-xs font-semibold tracking-widest uppercase border border-brand-navy/20 text-brand-navy hover:border-brand-gold hover:text-brand-gold transition-all duration-300 active:scale-95"
+                            className="inline-flex items-center justify-center px-12 py-6 text-xs font-semibold tracking-widest uppercase border border-[#1e293b]/20 text-brand-navy hover:border-brand-gold hover:text-brand-gold transition-all duration-300 active:scale-95"
                         >
                             Explore Services
                         </a>

@@ -31,7 +31,7 @@ const InvestmentPackages = () => {
                                 </ul>
                             </div>
 
-                            <div className="mt-12 pt-8 border-t border-brand-navy/5">
+                            <div className="mt-12 pt-8 border-t border-[#1e293b]/5">
                                 <p className="text-3xl font-bold text-brand-black">
                                     $6,500 <span className="text-xs font-normal text-brand-sage">/ fixed</span>
                                 </p>
@@ -61,7 +61,7 @@ const InvestmentPackages = () => {
                                 </ul>
                             </div>
 
-                            <div className="mt-12 pt-8 border-t border-brand-navy/5">
+                            <div className="mt-12 pt-8 border-t border-[#1e293b]/5">
                                 <p className="text-3xl font-bold text-brand-black">
                                     $18,500 <span className="text-xs font-normal text-brand-sage">/ fixed</span>
                                 </p>
@@ -86,7 +86,7 @@ const InvestmentPackages = () => {
                                 </ul>
                             </div>
 
-                            <div className="mt-12 pt-8 border-t border-brand-navy/5">
+                            <div className="mt-12 pt-8 border-t border-[#1e293b]/5">
                                 <p className="text-3xl font-bold text-brand-black">
                                     $45,000 <span className="text-xs font-normal text-brand-sage">/ fixed</span>
                                 </p>

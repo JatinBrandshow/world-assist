@@ -47,7 +47,7 @@ const MainSection = () => {
                             <span className="inline-block relative">
                                 Now Own It.
                                 <svg
-                                    className="absolute -bottom-2 right-0 w-32 h-4 text-brand-gold/20"
+                                    className="absolute -bottom-2 right-0 w-32 h-4 text-brand-gold opacity-20"
                                     viewBox="0 0 100 20"
                                 >
                                     <path
@@ -97,7 +97,7 @@ const MainSection = () => {
                         </div>
 
                         {/* Stats */}
-                        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 md:gap-12 pt-12 border-t border-brand-navy/5">
+                        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 md:gap-12 pt-12 border-t border-[#1e293b]/5">
                             <div>
                                 <p className="text-3xl font-jakarta font-bold text-brand-black">16+</p>
                                 <p className="text-[10px] font-bold tracking-widest text-brand-sage uppercase">
@@ -105,7 +105,7 @@ const MainSection = () => {
                                 </p>
                             </div>
 
-                            <div className="sm:border-x border-brand-navy/5 sm:px-8">
+                            <div className="sm:border-x border-[#1e293b]/5 sm:px-8">
                                 <p className="text-3xl font-jakarta font-bold text-brand-black">100%</p>
                                 <p className="text-[10px] font-bold tracking-widest text-brand-sage uppercase">
                                     Buyer-Side Focused

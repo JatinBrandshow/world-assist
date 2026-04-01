@@ -3,7 +3,7 @@ import React from "react";
 const TrustPillars = () => {
     return (
         <>
-            <section className="py-20 border-y border-brand-navy/5 bg-white">
+            <section className="py-20 border-y border-[#1e293b]/5 bg-white">
                 <div className="container mx-auto px-6 lg:px-16 overflow-hidden">
                     <div className="flex flex-wrap items-center justify-center lg:justify-between gap-12 opacity-60">
                         {/* Item 1 */}

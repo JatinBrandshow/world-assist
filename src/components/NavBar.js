@@ -11,7 +11,7 @@ const NavBar = () => {
             {/* NAVBAR */}
             <nav className="fixed top-0 left-0 right-0 z-50 px-6 lg:px-16 py-5 flex items-center justify-between pointer-events-none transition-all duration-300">
                 {/* Background */}
-                <div className="absolute inset-0 bg-white/70 backdrop-blur-xl border-b border-brand-navy/[0.03] shadow-[0_4px_30px_rgba(0,0,0,0.03),0_10px_50px_rgba(184,155,114,0.05)] -z-10"></div>
+                <div className="absolute inset-0 bg-white/70 backdrop-blur-xl border-b border-[#1e293b]/3 shadow-[0_4px_30px_rgba(0,0,0,0.03),0_10px_50px_rgba(184,155,114,0.05)] -z-10"></div>
 
                 {/* Left */}
                 <div className="flex items-center gap-12 pointer-events-auto">

@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <>
-            <footer className="py-16 px-6 lg:px-16 border-t border-brand-navy/5 bg-brand-paper">
+            <footer className="py-16 px-6 lg:px-16 border-t border-[#1e293b]/5 bg-brand-paper">
                 <div className="max-w-7xl mx-auto">
                     {/* TOP */}
                     <div className="flex flex-col md:flex-row justify-between items-start gap-12 mb-16">
@@ -57,7 +57,7 @@ const Footer = () => {
                     </div>
 
                     {/* BOTTOM */}
-                    <div className="pt-8 border-t border-brand-navy/5 flex flex-col md:flex-row justify-between items-center gap-4">
+                    <div className="pt-8 border-t border-[#1e293b]/5 flex flex-col md:flex-row justify-between items-center gap-4">
                         <p className="text-[10px] text-brand-sage italic">
                             © 2026 THE WORLD ASSIST LLC. SE USA & Global Headquarters.
                         </p>

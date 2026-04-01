@@ -43,7 +43,7 @@ const FAQ = () => {
                             return (
                                 <div
                                     key={index}
-                                    className="border-b border-brand-navy/10 pb-6 cursor-pointer"
+                                    className="border-b border-[#1e293b]/10 pb-6 cursor-pointer"
                                     onClick={() => setOpenIndex(isOpen ? null : index)}
                                 >
                                     {/* Question */}
