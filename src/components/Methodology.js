@@ -15,8 +15,8 @@ const Methadology = () => {
                     {/* Grid */}
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
                         {/* Step 1 */}
-                        <div className="relative pt-12">
-                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none font-jakarta">
+                        <div className="relative pt-18">
+                            <span className="absolute top-0 left-0 text-[120px] font-bold text-brand-gold leading-none font-jakarta pointer-events-none -z-10 opacity-8">
                                 01
                             </span>
 
@@ -31,8 +31,8 @@ const Methadology = () => {
                         </div>
 
                         {/* Step 2 */}
-                        <div className="relative pt-12">
-                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none font-jakarta">
+                        <div className="relative pt-18">
+                            <span className="absolute top-0 left-0 text-[120px] font-bold text-brand-gold leading-none font-jakarta pointer-events-none -z-10 opacity-8">
                                 02
                             </span>
 
@@ -47,8 +47,8 @@ const Methadology = () => {
                         </div>
 
                         {/* Step 3 */}
-                        <div className="relative pt-12">
-                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none font-jakarta">
+                        <div className="relative pt-18">
+                            <span className="absolute top-0 left-0 text-[120px] font-bold text-brand-gold leading-none font-jakarta pointer-events-none -z-10 opacity-8">
                                 03
                             </span>
 
@@ -63,8 +63,8 @@ const Methadology = () => {
                         </div>
 
                         {/* Step 4 */}
-                        <div className="relative pt-12">
-                            <span className="text-[120px] font-bold text-brand-gold/[0.05] leading-none absolute -top-8 -left-4 pointer-events-none font-jakarta">
+                        <div className="relative pt-18">
+                            <span className="absolute top-0 left-0 text-[120px] font-bold text-brand-gold leading-none font-jakarta pointer-events-none -z-10 opacity-8">
                                 04
                             </span>
 

@@ -5,7 +5,7 @@ const Services = () => {
                 {/* Background Gradient */}
                 <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(184,155,114,0.08)_0%,transparent_70%)]"></div>
 
-                <div className="max-w-7xl mx-auto px-6 lg:px-16 relative z-10">
+                <div className="max-w-[1500px] mx-auto px-6 lg:px-16 relative z-10">
                     {/* Header */}
                     <div className="flex flex-col lg:flex-row justify-between items-end gap-12 mb-20">
                         <div className="max-w-xl">
