@@ -31,7 +31,7 @@ const FounderNote = () => {
                                 </svg>
 
                                 {/* Quote */}
-                                <h3 className="text-3xl font-bold text-brand-black leading-snug">
+                                <h3 className="text-3xl font-bold text-brand-black leading-snug font-jakarta">
                                     "In world-class acquisitions, the best deals aren't found; they are negotiated
                                     through transparency. We are the shield between your ambition and the market's
                                     hidden risks."

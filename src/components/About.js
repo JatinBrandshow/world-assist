@@ -12,7 +12,7 @@ const About = () => {
                         </span>
 
                         <h2 className="text-4xl lg:text-5xl font-bold mb-8 leading-tight">
-                            We are built to be your <span className="italic text-brand-gold">unfair advantage</span>.
+                            We are built to be your <span className="italic text-brand-gold font-cormorant">unfair advantage</span>.
                         </h2>
 
                         <div className="space-y-6 text-brand-sage leading-relaxed">

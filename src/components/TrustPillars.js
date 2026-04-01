@@ -17,7 +17,6 @@ const TrustPillars = () => {
                             </div>
                         </div>
 
-                        {/* Divider */}
                         <div className="w-px h-8 bg-brand-navy/10 hidden lg:block"></div>
 
                         {/* Item 2 */}
@@ -31,7 +30,6 @@ const TrustPillars = () => {
                             </div>
                         </div>
 
-                        {/* Divider */}
                         <div className="w-px h-8 bg-brand-navy/10 hidden lg:block"></div>
 
                         {/* Item 3 */}
@@ -45,7 +43,6 @@ const TrustPillars = () => {
                             </div>
                         </div>
 
-                        {/* Divider */}
                         <div className="w-px h-8 bg-brand-navy/10 hidden lg:block"></div>
 
                         {/* Item 4 */}

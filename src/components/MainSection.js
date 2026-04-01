@@ -32,7 +32,7 @@ const MainSection = () => {
                     {/* LEFT CONTENT */}
                     <div className="lg:col-span-7 space-y-10">
                         {/* Badge */}
-                        <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full border border-brand-gold/20 bg-brand-gold/5">
+                        <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full border border-[#b89b72] bg-brand-gold/5">
                             <span className="w-2 h-2 rounded-full bg-brand-gold animate-pulse"></span>
                             <span className="text-[10px] font-bold tracking-[0.2em] text-brand-gold uppercase">
                                 Premier Buyer-Side Advisory
@@ -40,9 +40,10 @@ const MainSection = () => {
                         </div>
 
                         {/* Heading */}
-                        <h1 className="text-6xl lg:text-[5.5rem] leading-[1.05] font-bold text-brand-black">
+                        <h1 className="text-6xl lg:text-[5.5rem] leading-[1.05] font-jakarta font-bold text-brand-black">
                             You Found the <br />
-                            <span className="text-brand-gold italic font-medium">Right Firm.</span> <br />
+                            <span className="text-brand-gold italic font-cormorant font-medium">Right Firm.</span>{" "}
+                            <br />
                             <span className="inline-block relative">
                                 Now Own It.
                                 <svg
@@ -98,21 +99,21 @@ const MainSection = () => {
                         {/* Stats */}
                         <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 md:gap-12 pt-12 border-t border-brand-navy/5">
                             <div>
-                                <p className="text-3xl font-bold text-brand-black">16+</p>
+                                <p className="text-3xl font-jakarta font-bold text-brand-black">16+</p>
                                 <p className="text-[10px] font-bold tracking-widest text-brand-sage uppercase">
                                     Years Experience
                                 </p>
                             </div>
 
                             <div className="sm:border-x border-brand-navy/5 sm:px-8">
-                                <p className="text-3xl font-bold text-brand-black">100%</p>
+                                <p className="text-3xl font-jakarta font-bold text-brand-black">100%</p>
                                 <p className="text-[10px] font-bold tracking-widest text-brand-sage uppercase">
                                     Buyer-Side Focused
                                 </p>
                             </div>
 
                             <div>
-                                <p className="text-3xl font-bold text-brand-black">$3M</p>
+                                <p className="text-3xl font-jakarta font-bold text-brand-black">$3M</p>
                                 <p className="text-[10px] font-bold tracking-widest text-brand-sage uppercase">
                                     Target Range
                                 </p>

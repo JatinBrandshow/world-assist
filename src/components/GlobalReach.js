@@ -15,7 +15,7 @@ const GlobalReach = () => {
                             </span>
 
                             {/* Heading */}
-                            <h2 className="text-4xl lg:text-5xl font-bold italic text-brand-navy mb-8">
+                            <h2 className="text-4xl lg:text-5xl font-bold italic text-brand-navy mb-8 font-cormorant">
                                 Serving the SE USA & World's Developing Hubs.
                             </h2>
 
